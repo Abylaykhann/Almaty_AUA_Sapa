@@ -78,8 +78,8 @@ def get_stations_data():
     # with open('all_station_result.json', "w", encoding="utf-8") as file:
     #     json.dump(all_data, file, indent=4, ensure_ascii=False)
     #df_aqi.to_csv("air_quality_data.csv", encoding="utf-8")
-    df_aqi = pandas.DataFrame(all_stations_data)
-    df_aqi.to_csv("air_quality_data.csv", index=False, encoding="utf-8")
+    # df_aqi = pandas.DataFrame(all_stations_data)
+    # df_aqi.to_csv("air_quality_data.csv", index=False, encoding="utf-8")
 
     print("\n📁 Данные сохранены в CSV: air_quality_data.csv")
 
