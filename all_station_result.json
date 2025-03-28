@@ -1,0 +1,72 @@
+[
+    {
+        "station_id": -517657,
+        "aqi": 82,
+        "dominant_pollutant": "pm25",
+        "pm10": 27,
+        "pm25": 82,
+        "no2": null,
+        "h": null,
+        "t": null,
+        "timestamp": "2025-03-10T15:00:00Z",
+        "latitude": 43.214014722222,
+        "longitude": 76.893050833333,
+        "location": "Rozybakiev Street, Геологострой, Bostandıq District, Almaty, 050060, Kazakhstan"
+    },
+    {
+        "station_id": -398605,
+        "aqi": "-",
+        "dominant_pollutant": "pm25",
+        "pm10": 31,
+        "pm25": 41,
+        "no2": 25,
+        "h": 76.82,
+        "t": 13.17,
+        "timestamp": "2025-03-09T19:00:00Z",
+        "latitude": 43.335836109307266,
+        "longitude": 76.91287406657065,
+        "location": "улица Заводская (Карасу), Карасу, Alatau District, Almaty, 050014, Kazakhstan"
+    },
+    {
+        "station_id": -398878,
+        "aqi": 79,
+        "dominant_pollutant": "pm25",
+        "pm10": 18,
+        "pm25": 79,
+        "no2": 17,
+        "h": 74.23,
+        "t": 14.17,
+        "timestamp": "2025-03-10T14:00:00Z",
+        "latitude": 43.29161420999885,
+        "longitude": 76.80436756266862,
+        "location": "Морг (Городское патологоанатомическое бюро), 131, улица Аксайская, Alatau District, Almaty, 050033, Kazakhstan"
+    },
+    {
+        "station_id": -398842,
+        "aqi": 52,
+        "dominant_pollutant": "pm25",
+        "pm10": 13,
+        "pm25": 52,
+        "no2": 13,
+        "h": 70.01,
+        "t": 13.64,
+        "timestamp": "2025-03-10T14:00:00Z",
+        "latitude": 43.19364967260028,
+        "longitude": 76.90962542469542,
+        "location": "Наурыз-2, ЖК, 4/1, Рахмадиева улица, Bostandyk District, Almaty, 050023, Kazakhstan"
+    },
+    {
+        "station_id": -115870,
+        "aqi": 162,
+        "dominant_pollutant": "pm25",
+        "pm10": 71,
+        "pm25": 162,
+        "no2": null,
+        "h": 77.14,
+        "t": 6.01,
+        "timestamp": "2025-03-10T14:44:47Z",
+        "latitude": 43.324,
+        "longitude": 76.919,
+        "location": "Макатаева улица, микрорайон Айнабулак-3, Жетысуский район, Almaty, 050014, Kazakhstan"
+    }
+]
